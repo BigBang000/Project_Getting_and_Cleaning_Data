@@ -1,4 +1,4 @@
-setwd("~/Documents/Data Science/Coursera/Getting and Cleaning Data Course 3/Project_Get_and_Clean_Data")
+setwd("~/Documents/Data Science/Coursera/Getting and Cleaning Data Course 3/Project_Getting_and_Cleaning_Data")
 
 if(0) { ## Get the data, if not already
   fileUrl  <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "
